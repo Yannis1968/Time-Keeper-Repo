@@ -1,0 +1,20 @@
+
+*   Πρέπει να εξετασω αν τα πεδία στο categryName.py και στο raceGUI.py δεν ειναι κενα.
+    Αν είναι να υπαρχει προειδοποιητικό μύνημα ότι "το πεδιο δεν μπορεί να είναι κενό"
+
+* κατι κανω λαθος με το μπατον και τα objects πρεπει να το κοιταξω
+
+
+
+
+
+	Results
+		Overall
+		Categories
+
+
+To convert a .ui to .py:
+1. go to the directory where your ui file in.
+2. press shift and mouse right click.
+3. click (open command window here.
+4. pyuic5 -x -o pyfilename.py design.ui

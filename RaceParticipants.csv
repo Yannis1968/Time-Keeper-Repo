@@ -1,0 +1,11 @@
+BIB,NAME,SURNAME,DOB,GENDER,CLUB,EMAIL,NATIONALITY,TELEPHONE
+1,John,Q,1968,Male,qw,John@gmail.com,GR,6947000001
+2,Yannis,W,1970,Male,we,Yannis@gmail.com,GR,6947000002
+3,Yan ,E,1954,Female,er,Yan @gmail.com,GR,6947000003
+4,George,R,1978,Male,rt,George@gmail.com,GR,6947000004
+5,Alex,T,1985,Male,ty,Alex@gmail.com,GR,6947000005
+6,Bo,Y,1996,Female,yu,Bo@gmail.com,GR,6947000006
+7,Γιαννης,U,2000,Male,ui,Γιαννης@gmail.com,GR,6947000007
+8,Γιώργος,I,2001,Male,io,Γιώργος@gmail.com,GR,6947000008
+9,Νικος,O,1993,Male,op,Νικος@gmail.com,GR,6947000009
+10,Κλεξ,P,1987,Male,p[,Κλεξ@gmail.com,GR,6947000010
